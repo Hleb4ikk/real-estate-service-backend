@@ -1,0 +1,25 @@
+{
+  "name": "real-estate-service-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hleb4ikk/real-estate-service-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hleb4ikk/real-estate-service-backend/issues"
+  },
+  "homepage": "https://github.com/Hleb4ikk/real-estate-service-backend#readme",
+  "description": "",
+  "dependencies": {
+    "express": "5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "nodemon": "3.1.10"
+  }
+}
