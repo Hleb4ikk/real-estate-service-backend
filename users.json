@@ -1,14 +1,12 @@
 [
   {
-    "email": "test@test.org",
-    "password": "123"
+    "email": "hlebor2006@mail.ru",
+    "password": "$2b$10$qew5lmzr1rmPMaZGmZNxe.8RodutM0z2zXbTiE0RzEnAGUhDIfFd2",
+    "role": "realtor"
   },
   {
-    "email": "test1@test.org",
-    "password": "123"
-  },
-  {
-    "email": "test1a@test.org",
-    "password": "123"
+    "email": "hlebor21006@mail.ru",
+    "password": "123",
+    "role": "client"
   }
 ]
