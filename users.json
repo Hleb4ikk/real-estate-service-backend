@@ -5,8 +5,13 @@
     "role": "realtor"
   },
   {
-    "email": "hlebor21006@mail.ru",
-    "password": "123",
+    "email": "hlebor2005@mail.ru",
+    "password": "$2b$10$7EjBFvXh9Ua8IP/PbrsivOj./BZpSt/bqkm.5QuJs4f1SUXAt2rJ6",
+    "role": "realtor"
+  },
+  {
+    "email": "hlebor2004@mail.ru",
+    "password": "$2b$10$2c79ETmxdZIxIezzHFM7ouKkFQPBvMQXBX0K.dxb.UAjwy0tQr2Z.",
     "role": "client"
   }
 ]
